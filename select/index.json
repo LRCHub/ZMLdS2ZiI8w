@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Mr.Children 「Everything（it's you）」 MUSIC VIDEO",
+  "base_artist": "Mr.Children",
+  "createdAt": "2025-12-25T01:07:41.974348Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everything (It's you)",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/01_Everything_(It's_you)_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everything (It's you)",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/02_Everything_(It's_you)_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everything (It's You)",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/03_Everything_(It's_You)_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everything(It's you)",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/04_Everything(It's_you)_Mr.Children.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everything (it's you)",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_Everything_(it's_you)_Mr.Children.txt"
+    }
+  ]
+}
